@@ -21,10 +21,16 @@
     <ClCompile Include="constexpr_practice.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="0modern_cpp_main.cpp">
+    <ClCompile Include="variable_declaration_reinforcement.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="variable_declaration_reinforcement.cpp">
+    <ClCompile Include="Initialization_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_length_parameter_template.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="modern_cpp_main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -36,6 +42,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="variable_declaration_reinforcement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Initialization_list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="variable_length_parameter_template.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

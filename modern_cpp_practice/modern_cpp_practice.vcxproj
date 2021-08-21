@@ -147,14 +147,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="constexpr_practice.cpp" />
-    <ClCompile Include="0modern_cpp_main.cpp" />
+    <ClCompile Include="modern_cpp_main.cpp" />
+    <ClCompile Include="Initialization_list.cpp" />
     <ClCompile Include="nullptr_practice.cpp" />
     <ClCompile Include="variable_declaration_reinforcement.cpp" />
+    <ClCompile Include="variable_length_parameter_template.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constexpr_practice.h" />
+    <ClInclude Include="Initialization_list.h" />
     <ClInclude Include="nullptr_practice.h" />
     <ClInclude Include="variable_declaration_reinforcement.h" />
+    <ClInclude Include="variable_length_parameter_template.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
