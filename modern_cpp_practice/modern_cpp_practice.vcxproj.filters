@@ -24,12 +24,18 @@
     <ClCompile Include="0modern_cpp_main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="variable_declaration_reinforcement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="nullptr_practice.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="constexpr_practice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="variable_declaration_reinforcement.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

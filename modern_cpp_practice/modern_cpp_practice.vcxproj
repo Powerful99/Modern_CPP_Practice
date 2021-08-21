@@ -149,10 +149,12 @@
     <ClCompile Include="constexpr_practice.cpp" />
     <ClCompile Include="0modern_cpp_main.cpp" />
     <ClCompile Include="nullptr_practice.cpp" />
+    <ClCompile Include="variable_declaration_reinforcement.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constexpr_practice.h" />
     <ClInclude Include="nullptr_practice.h" />
+    <ClInclude Include="variable_declaration_reinforcement.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
