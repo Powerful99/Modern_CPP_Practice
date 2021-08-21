@@ -147,7 +147,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="constexpr_practice.cpp" />
-    <ClCompile Include="modern_cpp_main.cpp" />
+    <ClCompile Include="0modern_cpp_main.cpp" />
     <ClCompile Include="nullptr_practice.cpp" />
   </ItemGroup>
   <ItemGroup>
