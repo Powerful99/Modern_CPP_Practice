@@ -146,10 +146,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="constexpr_practice.cpp" />
     <ClCompile Include="modern_cpp_main.cpp" />
     <ClCompile Include="nullptr_practice.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="constexpr_practice.h" />
     <ClInclude Include="nullptr_practice.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
